@@ -1,0 +1,15 @@
+.pb {
+    text-align: justify;
+}
+.a1 {
+    padding: 10px 0;
+}
+.s1:hover{
+    text-decoration: underline;
+    background: red;
+    transition:.7s;
+    -webkit-transition:.7s;
+    -moz-transition:.7s;
+    -ms-transition:.7s;
+    -o-transition:.7s;
+}
